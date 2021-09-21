@@ -1,0 +1,27 @@
+body {
+    background-color: white;
+}
+
+header {
+    background-color: #900C3F;
+    color: white;
+    height: 16vh;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    flex-direction: column;
+    text-align: center;
+}
+
+
+.display{
+    display: flex;
+    flex-flow: column nowrap;
+
+}
+
+.display-header {
+    background-color: #FF5733;
+    color: white;
+
+}
